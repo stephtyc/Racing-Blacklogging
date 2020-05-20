@@ -1,0 +1,1 @@
+This is Steph's first GIT project! 
